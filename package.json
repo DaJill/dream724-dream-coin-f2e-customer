@@ -1,0 +1,46 @@
+{
+  "name": "dream-f2e-customer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@inotom/vue-go-top": "^1.1.0",
+    "autoprefixer": "^9.7.2",
+    "axios": "^0.19.0",
+    "core-js": "^3.3.2",
+    "element-ui": "^2.13.0",
+    "es6-promise": "^4.2.8",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "nprogress": "^0.2.0",
+    "numeral": "^2.0.6",
+    "path-to-regexp": "^6.1.0",
+    "postcss": "^7.0.23",
+    "postcss-cli": "^6.1.3",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.1.4",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vue-slide-up-down": "^2.0.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-plugin-router": "^4.0.0",
+    "@vue/cli-plugin-vuex": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
